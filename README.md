@@ -25,6 +25,9 @@ You can use my custom `build-localization.sh` too:
 > ./build-localization.sh
 ```
 
+| WARNING: Do not forget to edit Info.plist languages |
+| --- 
+
 • **files and folders**
 ```dart
 Project
