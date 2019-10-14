@@ -7,6 +7,7 @@ Flutter Intl localization with *.arb files
 
 **arb files**: https://github.com/google/app-resource-bundle/wiki/ApplicationResourceBundleSpecification
 
+**medium article**: https://medium.com/@burgseiten.apps/flutter-dynamic-localization-tutorial-bc1d20f6e514
 
 Usage
 ===============
