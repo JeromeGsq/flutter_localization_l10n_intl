@@ -1,0 +1,15 @@
+{
+   "@@locale":"fr_FR",
+   "@@last_modified": "2018-05-25T11:50:40.743319",
+   "title": "Bonjour depuis FR",
+   "@title": {
+     "description": "Le titre de l'application",
+     "type": "text",
+     "placeholders": {}
+   },
+   "hello": "Bonjour",
+   "@hello": {
+     "type": "text",
+     "placeholders": {}
+   }
+ }
