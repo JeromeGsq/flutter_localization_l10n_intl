@@ -135,7 +135,7 @@ Pro/Cons
 ===============
 **Pros:**
 - Support multiple language/country configurations (ex: `en-GB` and `en-US`)
-- You can take advantage of the advantage of `*.arb` files and their configuration
+- You can take advantage `*.arb` files and their configuration
 
 **Cons:** 
 - Work only with `*.arb` files
